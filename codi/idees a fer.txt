@@ -8,3 +8,5 @@
 saber quantes dades necesitem perque sigui fiable
 per decidir si ho fa be, fem servir etiquetes -> evaluació supervisada
 spectral clustering
+
+overfitting o No
