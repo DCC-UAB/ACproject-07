@@ -1,0 +1,3 @@
+1. segmentar els estudiants en grups segons les seves caracteristiques demografiques, de salud mental i academiques. Així podrem veure els perfil d'estudiants semblants.
+
+2. utilitzar el clustering per identificar grups d'estudiants que poden estar en major risc de Burnout (segons Exhaustion scale, Cynicism Scale, Professional Efficacy Scale). Podem examinar els factors asociats d'aquests grups.
