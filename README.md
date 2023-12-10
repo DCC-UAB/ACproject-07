@@ -38,5 +38,10 @@ Cluster
 
 No tenim una clara distinció entre els 3 clústers. És cert que el State-Trait Anxiety Inventory (STAI) i mbi de cinisme poden aportar un certa diferència entre els clústers 0 i 1 amb el 2, però no creiem que sigui suficient. Per això, pensem que hem de continuar buscant un altre mètode.
 
+#### Gaussian Mixtrue Modificat
+A partir de la implementació de Gaussian Mixture basat en el starting point 1, fem possibles millores del model, com per exemple:
+* Utilitzar l'eina GridSearch per trobar els millor paràmetres.
+* Definir les hores d'estudi com a numèriques i no com a categòriques com tenim en el starting point 1. 
+
 
 ### Spectral Clustering
