@@ -12,7 +12,7 @@
 ## Tema
 Mental Health Students
 
-Volem respondre: _Quina és l'impacte de l'estat mental dels estudiants sobre el rendiment acadèmic?_
+Volem respondre: _Quin és l'impacte de l'estat mental dels estudiants sobre el rendiment acadèmic?_
 
 y: mbi_ea
 
