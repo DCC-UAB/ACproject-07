@@ -1,12 +1,7 @@
-1. segmentar els estudiants en grups segons les seves caracteristiques demografiques, de salud mental i academiques. Així podrem veure els perfil d'estudiants semblants.
+y = cesd, stai_t
 
-2. utilitzar el clustering per identificar grups d'estudiants que poden estar en major risc de Burnout (segons Exhaustion scale, Cynicism Scale, Professional Efficacy Scale). Podem examinar els factors asociats d'aquests grups.
+a) fer clusters
+a) dins Busquem el màxim 
 
-3. agrupar els pacients segons el puntuatje d'empatia (cognictiva i afectiva). Es pot examinar si hi ha algun tipus de relació amb el benestar mental i/o academic
-
-
-saber quantes dades necesitem perque sigui fiable
-per decidir si ho fa be, fem servir etiquetes -> evaluació supervisada
-spectral clustering
-
-overfitting o No
+1. fem servir totes
+2. reduïm
