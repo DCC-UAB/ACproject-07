@@ -1,0 +1,7 @@
+y = cesd, stai_t
+
+a) fer clusters
+a) dins Busquem el màxim 
+
+1. fem servir totes
+2. reduïm
